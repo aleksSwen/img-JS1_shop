@@ -1,0 +1,48 @@
+[
+  {
+    "productCloth":"Mango T-Shirt",
+    "productPrice":52,
+    "productImg":"https://raw.githubusercontent.com/aleksSwen/static/master/img/main_index_img_1.png",
+    "productId":"prod_0"
+  },
+  {
+    "productCloth":"Apple T-Shirt",
+    "productPrice":53,
+    "productImg":"https://raw.githubusercontent.com/aleksSwen/static/master/img/main_index_img_2.png",
+    "productId":"prod_1"
+  },
+  {
+    "productCloth":"Avocado T-Shirt",
+    "productPrice":56,
+    "productImg":"https://raw.githubusercontent.com/aleksSwen/static/master/img/main_index_img_3.png",
+    "productId":"prod_2"
+  },
+  {
+    "productCloth":"Banana T-Shirt",
+    "productPrice":57,
+    "productImg":"https://raw.githubusercontent.com/aleksSwen/static/master/img/main_index_img_4.png",
+    "productId":"prod_3"
+  },
+  {
+    "productCloth":"Grapefruit T-Shirt",
+    "productPrice":124,
+    "productImg":"https://raw.githubusercontent.com/aleksSwen/static/master/img/main_index_img_5.png",
+    "productId":"prod_4"
+  },
+  {"productCloth":"Grapes T-Shirt",
+    "productPrice":59,
+    "productImg":"https://raw.githubusercontent.com/aleksSwen/static/master/img/main_index_img_6.png",
+    "productId":"prod_5"
+  },
+  {"productCloth":"Kiwi T-Shirt",
+    "productPrice":55,
+    "productImg":"https://raw.githubusercontent.com/aleksSwen/static/master/img/main_index_img_7.png",
+    "productId":"prod_6"
+  },
+  {
+    "productCloth":"Lime T-Shirt",
+    "productPrice":23,
+    "productImg":"https://raw.githubusercontent.com/aleksSwen/static/master/img/main_index_img_8.png",
+    "productId":"prod_7"
+  }
+]
